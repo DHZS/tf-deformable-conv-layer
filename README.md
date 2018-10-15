@@ -7,10 +7,10 @@ This is a TensorFlow implementation of the following paper:
 The code can only run in the [Eager Execution](https://www.tensorflow.org/guide/eager).
 
 Rotated training image  
-<img src="images/rotated_image.png" height="300px">
+<img src="images/rotated_image.png" width="300px">
 
 Sampling locations  
-<img src="images/sampling_locations.png" height="500px">
+<img src="images/sampling_locations.png" width="330px">
 
 ## Basic Usage
 
