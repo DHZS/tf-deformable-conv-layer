@@ -6,7 +6,6 @@ This is a TensorFlow implementation of the following paper:
 
 The code can only run in the [Eager Execution](https://www.tensorflow.org/guide/eager).
 
-## Sample result
 Rotated training image  
 <img src="images/rotated_image.png" height="300px">
 
